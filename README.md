@@ -3,7 +3,8 @@
 **YC-Paygenre is Template for payment Gateaway which is Complete Multipage React Website with Firebase**
 
 ### Hosted on : https://yc-paygenre.web.app/
-![WhatsApp Image 2021-08-29 at 3 09 31 PM](https://user-images.githubusercontent.com/80738479/131246052-8b5ca1b3-7a07-4d6e-86cc-fd3e38cfc2ce.jpeg)
+![Screenshot (972)_2](https://user-images.githubusercontent.com/80738479/131246152-4e8d0309-26c2-4f7c-addc-b0216b5c6630.png)
+
 
 # Getting Started with Create React App
 
